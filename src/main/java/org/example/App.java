@@ -7,6 +7,7 @@ public class App {
         tester.displayInfo();
         tester.displayInfo(5);
         tester.displayInfo(50000.0);
+
     }
 }
 
